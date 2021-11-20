@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**ayushdev351/ayushdev351** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ayush Chauhan :adult:
 
-Here are some ideas to get you started:
+#Background :
+- ✨ Currently Pursuing B.Tech in Computer Science Engineering & AI
+- :lion: Strong in C, C++, HTML, CSS
+- :tiger: Moderate in Competetive Programming and DS&A
+- :cat: Learning JavaScript, React
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#About Programming :
+- 🔭 I’m currently working on College Student Connect Website 
+- 🌱 I’m currently learning MERN Stack (Moderate)
+- 👯 I’m looking to collaborate on React and Firebase
+- 🤔 I’m looking for help with Backend Frontend Integeration & MongoDB
+- ⚡ Fun fact: :cricket_game: Cricket is my Love
+- 📫 How to reach me: [Link to Google](https://www.google.com)
