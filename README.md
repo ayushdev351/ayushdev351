@@ -13,5 +13,5 @@ My name is Ayush Chauhan :adult:
 - 🌱 I’m currently learning MERN Stack (Moderate)
 - 👯 I’m looking to collaborate on React and Firebase
 - 🤔 I’m looking for help with Backend Frontend Integeration & MongoDB
-- ⚡ Fun fact: :cricket_game: Cricket is my Love, :writing: is my Hobby
+- ⚡ Fun fact: :cricket_game: Cricket is my Love, :pen: is my Hobby
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ayush_chauhan.ji/)
