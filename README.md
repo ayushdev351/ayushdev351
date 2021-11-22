@@ -9,7 +9,7 @@ My name is Ayush Chauhan :adult:
 - :cat: Learning JavaScript, React
 
 # About Programming :
-- 🔭 I’m currently working on College Student Connect Website 
+- 🔭 I’m currently working on Student Connect Website 
 - 🌱 I’m currently learning MERN Stack (Moderate)
 - 👯 I’m looking to collaborate on React and Firebase
 - 🤔 I’m looking for help with Backend Frontend Integeration & MongoDB
