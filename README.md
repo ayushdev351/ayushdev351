@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-My name is Ayush Chauhan :adult:
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=ayushdev351&show_icons=true&theme=radical)
 
 # Background :
 - ✨ Currently Pursuing B.Tech in Computer Science Engineering & AI
